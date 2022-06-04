@@ -1,1 +1,2 @@
 # odin-recipes
+This project will be a basic recipes website. It will consist of one main index page, which will link to a few recipes. Whilr doing this project i will demonstrate skills in basic HTML, including boilerplate, headers, lists, and images. 
